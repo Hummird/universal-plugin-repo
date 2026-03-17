@@ -1,4 +1,5 @@
 # https://raw.githubusercontent.com/shemanaev/jellyfin-plugin-repo/master/manifest.json
+https://hummird.online/jellyfin/manifest.json
 https://app.lizardbyte.dev/jellyfin-plugin-repo/manifest.json
 https://github.com/cxfksword/jellyfin-plugin-danmu/releases/download/manifest/manifest.json
 https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/manifest/manifest.json
@@ -54,4 +55,4 @@ https://repo.xkrivo.net/jellyfin/manifest.json
 https://simoni.dev/jellyfin/repo.json
 https://www.iamparadox.dev/jellyfin/plugins/manifest.json
 https://xzonn.top/JellyfinPluginDouban/manifest.json
-ttps://raw.githubusercontent.com/RadicalMuffinMan/moonfin-server/master/manifest.json
+https://raw.githubusercontent.com/RadicalMuffinMan/moonfin-server/master/manifest.json
